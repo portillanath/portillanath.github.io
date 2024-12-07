@@ -13,7 +13,7 @@ main:
  #   url: /teaching/    
  
    - title: "CV"
-    url: /files/NathaliaPortilla_CV2024DIC.pdf
+    URL: files/NathaliaPortilla_CV2024DIC.pdf
     
  # - title: "Portfolio"
  #   url: /portfolio/
